@@ -1,4 +1,4 @@
 :HL["/task45b-lab/_next/static/css/36110e46c96a8305.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"semantic","h":96,"c":"$Q2"}]]
-0:{"b":"M8k210YVaA2huAFfnvimO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"UT8IOmyU_Zn2xodk_3mtb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
