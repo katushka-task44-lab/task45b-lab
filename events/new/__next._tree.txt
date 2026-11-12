@@ -1,0 +1,6 @@
+:HL["/task45b-lab/_next/static/css/36110e46c96a8305.css","style"]
+:HL["/task45b-lab/_next/static/css/2f7ea2c9beb28c42.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"new","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"events","h":96,"c":"$Q2"}]]
+0:{"b":"mcBypPwBoDwjXprOCeloX","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

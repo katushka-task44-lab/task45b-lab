@@ -1,0 +1,36 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Строитель из Ставрополя
+ORG:Стройка «Камень»
+TITLE:Прораб
+TEL;TYPE=CELL:+79000001001
+EMAIL:builder@example.test
+NOTE:Синтетический сценарий: строитель из Ставрополя. Работает на стройке.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Ваган
+TITLE:Шахматист
+TEL;TYPE=CELL:+79000001002
+EMAIL:vagan@example.test
+NOTE:Синтетический сценарий: шахматист из Сберкара.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Собеседник
+TEL;TYPE=CELL:+79000001003
+NOTE:Шахматист из Сберкара остался там после выхода Вагана.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Посетитель выставки
+TEL;TYPE=CELL:+79000001004
+NOTE:Синтетический сценарий: выставка «Тихая линия» 10 ноября.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Анна из мастерской
+ORG:Мастерская «Нить»
+TEL;TYPE=CELL:+79000001005
+EMAIL:anna.task40@example.test
+END:VCARD

@@ -1,0 +1,48 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Иван Петров
+ORG:ООО «Вымысел»
+TITLE:Исследователь
+TEL;TYPE=CELL:+79000000001
+EMAIL:ivan@example.test
+URL:https://t.me/ivan_test
+URL:https://wa.me/79000000003
+URL:https://example.test/ivan
+NOTE:Учебный контакт. Все данные вымышлены.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Анна Смирнова
+ORG:Студия «Пример»
+TITLE:Дизайнер
+TEL;TYPE=CELL:+79000000002
+EMAIL:anna@example.test
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Павел Орлов
+ORG:Мастерская «Нить»
+TEL;TYPE=CELL:+79000000004
+EMAIL:pavel@example.test
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Мария Лебедева
+TEL;TYPE=CELL:+79000000005
+EMAIL:maria@example.test
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Сергей Волков
+TEL;TYPE=CELL:+79000000006
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Ольга Никитина
+EMAIL:olga@example.test
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Дмитрий Соколов
+TEL;TYPE=CELL:+79000000007
+END:VCARD
