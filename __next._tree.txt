@@ -1,3 +1,3 @@
 :HL["/task45b-lab/_next/static/css/36110e46c96a8305.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"UT8IOmyU_Zn2xodk_3mtb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"9ha0_BnhtEEhKsQGXI364","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

@@ -1,37 +1,37 @@
 1:"$Sreact.fragment"
-2:"static/chunks/8500-107859ed31978aa3.js"
-3:"static/chunks/9251-a177f4df0ad0693a.js"
-4:"static/chunks/6684-1e824ef76ab6a3fb.js"
-5:"static/chunks/app/layout-ee26158ff91f959f.js"
+2:"static/chunks/9906-6cc05f7fb8926d2c.js"
+3:"static/chunks/4835-46f67de1b3e93447.js"
+4:"static/chunks/7615-b628a38afa53cc1d.js"
+5:"static/chunks/app/layout-b824c2566c32a146.js"
 6:"PersonalCoreBoundary"
-7:I[6277,["8500","$2","9251","$3","6684","$4","7177","$5"],"$6"]
+7:I[5333,["9906","$2","4835","$3","7615","$4","7177","$5"],"$6"]
 8:"WindingDraftProvider"
-9:I[6611,["8500","$2","9251","$3","6684","$4","7177","$5"],"$8"]
-a:I[9449,["8500","$2","9251","$3","6684","$4","7177","$5"],"AppNavigation"]
-b:I[7121,[],""]
-c:I[4581,[],""]
-d:"static/chunks/8437-410c3004a6581e3b.js"
-e:"static/chunks/app/page-ca6685134a8e4e59.js"
-f:I[8500,["8500","$2","8437","$d","8974","$e"],""]
-13:"static/chunks/2757-b12819e6df9c2b5f.js"
-14:"static/chunks/app/settings/page-e2c9f8b001dfe998.js"
+9:I[6874,["9906","$2","4835","$3","7615","$4","7177","$5"],"$8"]
+a:I[3225,["9906","$2","4835","$3","7615","$4","7177","$5"],"AppNavigation"]
+b:I[2795,[],""]
+c:I[3415,[],""]
+d:"static/chunks/7023-ff0e068cd5a25cb2.js"
+e:"static/chunks/app/page-0595fe5375f57781.js"
+f:I[9906,["9906","$2","7023","$d","8974","$e"],""]
+13:"static/chunks/2949-e4affb79f329fcdf.js"
+14:"static/chunks/app/settings/page-3a9b2f4892c90fb8.js"
 15:"WorkshopBackupPanel"
-16:I[7589,["8500","$2","9251","$3","6684","$4","2757","$13","4662","$14"],"$15"]
-17:I[506,["8500","$2","9251","$3","6684","$4","2757","$13","4662","$14"],"DataBackupPanel"]
-18:I[484,[],"OutletBoundary"]
+16:I[2357,["9906","$2","4835","$3","7615","$4","2949","$13","4662","$14"],"$15"]
+17:I[7466,["9906","$2","4835","$3","7615","$4","2949","$13","4662","$14"],"DataBackupPanel"]
+18:I[1330,[],"OutletBoundary"]
 19:"$Sreact.suspense"
 1b:"ViewportBoundary"
-1c:I[484,[],"$1b"]
+1c:I[1330,[],"$1b"]
 1e:"MetadataBoundary"
-1f:I[484,[],"$1e"]
-21:I[7123,[],"default",1]
+1f:I[1330,[],"$1e"]
+21:I[8833,[],"default",1]
 :HL["/task45b-lab/_next/static/css/36110e46c96a8305.css","style"]
 11:X
 12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"brand-shell","children":["$","div",null,{"className":"brand-container","children":[["$","main",null,{"id":"main-content","children":[["$","div",null,{"className":"page-heading","children":[["$","p",null,{"className":"eyebrow","children":"О ПРИЛОЖЕНИИ"}],["$","h1",null,{"children":"Настройки"}],["$","p",null,{"className":"page-description","children":"Всё важное о текущем прототипе."}],["$","div",null,{"className":"thread-rule","aria-hidden":"true"}]]}],[["$","section",null,{"className":"paper-panel settings-panel","children":[["$","h2",null,{"children":"Ваша KATUШКА"}],["$","dl",null,{"className":"settings-facts","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Версия"}],["$","dd",null,{"children":"Demo 1.2"}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Режим"}],["$","dd",null,{"children":["$","span",null,{"className":"demo-pill","children":"Демонстрационный"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Хранение знакомств"}],["$","dd",null,{"children":"В этом браузере, на этом устройстве"}]]}]]}],["$","p",null,{"children":"Записи не синхронизируются между устройствами. Очистка данных сайта может удалить сохранённые знакомства. Safari и установленное веб-приложение могут использовать отдельные локальные записи."}]]}],["$","$L16",null,{}],["$","$L17",null,{}],["$","section",null,{"className":"paper-panel settings-panel","children":[["$","h2",null,{"children":"На главный экран iPhone"}],["$","ol",null,{"className":"install-steps","children":[["$","li",null,{"children":"Откройте опубликованный HTTPS-адрес в Safari."}],["$","li",null,{"children":"Нажмите «Поделиться» и выберите «На экран Домой»."}],["$","li",null,{"children":"Если доступен переключатель «Открывать как веб-приложение», включите его, затем нажмите «Добавить»."}]]}],["$","p",null,{"className":"helper-text","children":"Веб-приложение запускается с отдельной иконки. Для открытия страниц требуется интернет: офлайн-режим пока не реализован."}]]}]]]}],["$","footer",null,{"className":"brand-footer","children":[["$","span",null,{"className":"thread-dot","aria-hidden":"true"}],["$","span",null,{"children":"Знакомься на всю катушку"}],["$","span",null,{"className":"demo-pill","children":"Демо"}]]}]]}]}],null,["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]]}],"p":false,"v":null}}]]
 10:[["children",{"s":"settings","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$11"},"c":"$Q12"}]]
-0:{"P":null,"c":["","settings",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/task45b-lab/_next/static/css/36110e46c96a8305.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","aside",null,{"role":"note","data-preview-base-path":"/task45b-lab","style":{"padding":"8px 16px","background":"#fff1d6","color":"#3d2515","fontSize":13,"lineHeight":1.5},"children":"Тестовая Demo 1.2 · Только вымышленные записи · Не импортируйте личные копии · QR-код и «Поделиться» ведут в основную KATUШКА"}],["$","$L7",null,{"children":["$","$L9",null,{"children":["$","$La",null,{"children":["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"brand-shell","children":["$","div",null,{"className":"brand-container","children":[["$","main",null,{"id":"main-content","children":[["$","div",null,{"className":"page-heading","children":[["$","p",null,{"className":"eyebrow","children":"СТРАНИЦА НЕ НАЙДЕНА"}],["$","h1",null,{"children":"Нить потерялась"}],["$","p",null,{"className":"page-description","children":"Такой страницы пока нет. Вернитесь к началу знакомства."}],["$","div",null,{"className":"thread-rule","aria-hidden":"true"}]]}],["$","$Lf",null,{"href":"/","className":"primary-button","children":"На главный экран"}]]}],["$","footer",null,{"className":"brand-footer","children":[["$","span",null,{"className":"thread-dot","aria-hidden":"true"}],["$","span",null,{"children":"Знакомься на всю катушку"}],["$","span",null,{"className":"demo-pill","children":"Демо"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}]}]]}],"p":false,"v":null},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1c",null,{"children":"$L1d"}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":"$L20"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$21",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"UT8IOmyU_Zn2xodk_3mtb"}
+0:{"P":null,"c":["","settings",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/task45b-lab/_next/static/css/36110e46c96a8305.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","aside",null,{"role":"note","data-preview-base-path":"/task45b-lab","style":{"padding":"8px 16px","background":"#fff1d6","color":"#3d2515","fontSize":13,"lineHeight":1.5},"children":"Тестовая Demo 1.2 · Только вымышленные записи · Не импортируйте личные копии · QR-код и «Поделиться» ведут в основную KATUШКА"}],["$","$L7",null,{"children":["$","$L9",null,{"children":["$","$La",null,{"children":["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"brand-shell","children":["$","div",null,{"className":"brand-container","children":[["$","main",null,{"id":"main-content","children":[["$","div",null,{"className":"page-heading","children":[["$","p",null,{"className":"eyebrow","children":"СТРАНИЦА НЕ НАЙДЕНА"}],["$","h1",null,{"children":"Нить потерялась"}],["$","p",null,{"className":"page-description","children":"Такой страницы пока нет. Вернитесь к началу знакомства."}],["$","div",null,{"className":"thread-rule","aria-hidden":"true"}]]}],["$","$Lf",null,{"href":"/","className":"primary-button","children":"На главный экран"}]]}],["$","footer",null,{"className":"brand-footer","children":[["$","span",null,{"className":"thread-dot","aria-hidden":"true"}],["$","span",null,{"children":"Знакомься на всю катушку"}],["$","span",null,{"className":"demo-pill","children":"Демо"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}]}]]}],"p":false,"v":null},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1c",null,{"children":"$L1d"}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":"$L20"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$21",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"9ha0_BnhtEEhKsQGXI364"}
 11:C
 1d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#24160f"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]
-22:I[6869,[],"IconMark"]
+22:I[7831,[],"IconMark"]
 1a:null
 20:[["$","title","0",{"children":"Настройки · KATUШКА"}],["$","meta","1",{"name":"description","content":"KATUШКА — демонстрационный прототип: сохраняйте знакомства, вспоминайте истории и делитесь визиткой."}],["$","meta","2",{"name":"application-name","content":"KATUШКА"}],["$","link","3",{"rel":"manifest","href":"/task45b-lab/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","5",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","6",{"name":"apple-mobile-web-app-title","content":"KATUШКА"}],["$","meta","7",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","meta","8",{"property":"og:title","content":"KATUШКА"}],["$","meta","9",{"property":"og:description","content":"Знакомься на всю катушку"}],["$","meta","10",{"property":"og:url","content":"https://katushka-pwa.pages.dev/"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary"}],["$","meta","13",{"name":"twitter:title","content":"KATUШКА"}],["$","meta","14",{"name":"twitter:description","content":"Знакомься на всю катушку"}],["$","link","15",{"rel":"icon","href":"/task45b-lab/icons/favicon-v1-32.png","sizes":"32x32","type":"image/png"}],["$","link","16",{"rel":"icon","href":"/task45b-lab/icons/app-icon-v1-192.png","sizes":"192x192","type":"image/png"}],["$","link","17",{"rel":"apple-touch-icon","href":"/task45b-lab/icons/apple-touch-icon-v1.png","sizes":"180x180","type":"image/png"}],["$","$L22","18",{}]]
